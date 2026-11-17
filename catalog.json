@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAtMillis": 1794915900707,
+  "updatedAtMillis": 1794916592940,
   "papers": [
     {
       "testId": "v9_paper_ssc_mts_2026_20260204_tier_1_shift_3",
@@ -23,6 +23,28 @@
       "isActive": true,
       "packPath": "papers\/v9_paper_ssc_mts_2026_20260204_tier_1_shift_3.tgpack",
       "versionTimestamp": 1794915895432
+    },
+    {
+      "testId": "v9_paper_ssc_gd_2024_20240220_tier_1_shift_4",
+      "titleEn": "SSC GD 2024 - Tier 1 (20 Feb, Shift 4)",
+      "titleHi": "SSC GD 2024 - Tier 1 (20 Feb, Shift 4)",
+      "exam": "SSC GD",
+      "year": 2024,
+      "shift": "Shift 4",
+      "tier": "Tier 1",
+      "examDate": "2024-02-20",
+      "formatMode": "FULL_LENGTH",
+      "statusBadge": "LIVE",
+      "examTargetDate": "18 Feb 2027",
+      "durationMinutes": 60,
+      "totalMarks": 160,
+      "positiveMarks": 2,
+      "negativeMarks": 0.25,
+      "negativeMarkingRatio": 0.13,
+      "questionCount": 80,
+      "isActive": true,
+      "packPath": "papers\/v9_paper_ssc_gd_2024_20240220_tier_1_shift_4.tgpack",
+      "versionTimestamp": 1794916589599
     }
   ]
 }
