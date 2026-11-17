@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "updatedAtMillis": 1794915900707,
+  "papers": [
+    {
+      "testId": "v9_paper_ssc_mts_2026_20260204_tier_1_shift_3",
+      "titleEn": "SSC MTS 2026 - Tier 1 (04 Feb, Shift 3)",
+      "titleHi": "SSC MTS 2026 - Tier 1 (04 Feb, Shift 3)",
+      "exam": "SSC MTS",
+      "year": 2026,
+      "shift": "Shift 3",
+      "tier": "Tier 1",
+      "examDate": "2026-02-04",
+      "formatMode": "FULL_LENGTH",
+      "statusBadge": "LIVE",
+      "examTargetDate": "08 Feb 2027",
+      "durationMinutes": 90,
+      "totalMarks": 270,
+      "positiveMarks": 3,
+      "negativeMarks": 1,
+      "negativeMarkingRatio": 0.33,
+      "questionCount": 90,
+      "isActive": true,
+      "packPath": "papers\/v9_paper_ssc_mts_2026_20260204_tier_1_shift_3.tgpack",
+      "versionTimestamp": 1794915895432
+    }
+  ]
+}
