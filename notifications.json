@@ -1,0 +1,13 @@
+{
+  "updatedAtMillis": 1794991300258,
+  "notifications": [
+    {
+      "notificationId": "notif_1794991298504",
+      "title": "Happy Dipawali",
+      "message": "This Diwali, we are going to give all the tests free to all the students. 🎉",
+      "targetExam": "All",
+      "createdAtMillis": 1794991298504,
+      "senderName": "Testgram Admin"
+    }
+  ]
+}
