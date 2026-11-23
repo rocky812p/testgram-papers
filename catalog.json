@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAtMillis": 1794916601747,
+  "updatedAtMillis": 1795431425858,
   "papers": [
     {
       "testId": "v9_paper_ssc_mts_2026_20260204_tier_1_shift_3",
@@ -23,6 +23,28 @@
       "isActive": true,
       "packPath": "papers\/v9_paper_ssc_mts_2026_20260204_tier_1_shift_3.tgpack",
       "versionTimestamp": 1794915895432
+    },
+    {
+      "testId": "v9_paper_ssc_gd_2025_20250204_tier_1_shift_2",
+      "titleEn": "SSC GD 2025 - Tier 1 (04 Feb, Shift 2)",
+      "titleHi": "SSC GD 2025 - Tier 1 (04 Feb, Shift 2)",
+      "exam": "SSC GD",
+      "year": 2025,
+      "shift": "Shift 2",
+      "tier": "Tier 1",
+      "examDate": "2025-02-04",
+      "formatMode": "FULL_LENGTH",
+      "statusBadge": "LIVE",
+      "examTargetDate": "18 Feb 2027",
+      "durationMinutes": 60,
+      "totalMarks": 198,
+      "positiveMarks": 2,
+      "negativeMarks": 0.25,
+      "negativeMarkingRatio": 0.13,
+      "questionCount": 99,
+      "isActive": true,
+      "packPath": "papers\/v9_paper_ssc_gd_2025_20250204_tier_1_shift_2.tgpack",
+      "versionTimestamp": 1795431422085
     },
     {
       "testId": "v9_paper_ssc_gd_2024_20240220_tier_1_shift_4",
