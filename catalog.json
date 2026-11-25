@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAtMillis": 1795590511379,
+  "updatedAtMillis": 1795590517128,
   "papers": [
     {
       "testId": "v9_paper_ssc_mts_2026_20260204_tier_1_shift_3",
@@ -23,6 +23,28 @@
       "isActive": true,
       "packPath": "papers\/v9_paper_ssc_mts_2026_20260204_tier_1_shift_3.tgpack",
       "versionTimestamp": 1794915895432
+    },
+    {
+      "testId": "v9_paper_mp_police_2025_20251030_tier_1_shift_1",
+      "titleEn": "MP Police 2025 - Tier 1 (30 Oct, Shift 1)",
+      "titleHi": "MP Police 2025 - Tier 1 (30 Oct, Shift 1)",
+      "exam": "MP Police",
+      "year": 2025,
+      "shift": "Shift 1",
+      "tier": "Tier 1",
+      "examDate": "2025-10-30",
+      "formatMode": "FULL_LENGTH",
+      "statusBadge": "LIVE",
+      "examTargetDate": "15 Feb 2027",
+      "durationMinutes": 120,
+      "totalMarks": 100,
+      "positiveMarks": 1,
+      "negativeMarks": 0,
+      "negativeMarkingRatio": 0,
+      "questionCount": 100,
+      "isActive": true,
+      "packPath": "papers\/v9_paper_mp_police_2025_20251030_tier_1_shift_1.tgpack",
+      "versionTimestamp": 1795590514195
     },
     {
       "testId": "v9_paper_ssc_gd_2025_20250204_tier_1_shift_2",
