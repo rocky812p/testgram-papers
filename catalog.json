@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAtMillis": 1795684012484,
+  "updatedAtMillis": 1795684016265,
   "papers": [
     {
       "testId": "v9_paper_ssc_mts_2026_20260204_tier_1_shift_3",
@@ -86,9 +86,9 @@
       "negativeMarks": 0.25,
       "negativeMarkingRatio": 0.13,
       "questionCount": 100,
-      "isActive": true,
+      "isActive": false,
       "packPath": "papers\/v9_paper_ssc_gd_2025_20250204_tier_1_shift_3.tgpack",
-      "versionTimestamp": 1795683906007
+      "versionTimestamp": 1795684016265
     },
     {
       "testId": "v9_paper_ssc_gd_2024_20240220_tier_1_shift_4",
